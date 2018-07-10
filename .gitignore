@@ -1,0 +1,6 @@
+builtin
+bashrc
+.DS_Store
+*.log
+node_modules
+bin
